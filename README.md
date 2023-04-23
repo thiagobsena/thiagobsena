@@ -4,7 +4,7 @@ Prazer, sou o Thiago Sena
 - 👯  Estou procurando minha primeiroa oportunidade como programador
 -  😜 Em transição de carreira
 - 📫 Entre em contato comigo no e-mail: thiago.bsenasantos@gmail.com
-- ⚡ Sou engenheiro civil 
+- ⚡  Engenheiro civil
 
 <div>
   <a href="https://github.com/thiagobsena">
