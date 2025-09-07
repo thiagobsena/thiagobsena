@@ -1,10 +1,11 @@
-Prazer, sou o Thiago Sena
-- 🔭 Hoje trabalho como Analista de operaçõess
-- 🌱 Estudando Javascript
-- 👯  Estou procurando minha primeira oportunidade como programador
--  😜 Em transição de carreira
-- 📫  Entre em contato comigo no e-mail: thiago.bsenasantos@gmail.com
-- ⚡  Engenheiro civil
+👋 Prazer, sou o Thiago Sena
+
+🔧 Atualmente trabalho como Chefe de Manutenção
+📚 Estudando Python e SQL – cursando MBA em Data Science e Analytics
+👨‍💻 Em transição de carreira, buscando minha primeira oportunidade na área de Dados
+🧠 Interesses: Análise de Dados, Ciência de Dados, Visualização e Resolução de Problemas
+📫 Fale comigo: thiago.bsenasantos@gmail.com
+🏗️ Formação: Engenheiro Civil
 
 <div>
   <a href="https://github.com/thiagobsena">
